@@ -1,9 +1,9 @@
-  <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBsNjhsZGdna2VreTd2azFtbjFsZjRpbTdsOGMxOGJsa3lzbHptNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="200"/>
-  </div>
-  <div align="center"> 
+</div>
+<div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=unlucker5&style=flat-square&color=blue" alt=""/>
-  </div>
+</div>
 
 <h1 align="center">
   Привет, я Алексей!
