@@ -43,6 +43,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlucker5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 👾 Проекты с хостингом: 
+ <div>
+   - <a href = "https://unlucker5.github.io/Blanchard/"> 🖼️👀 Blanchard — художественная галерея </a>
+   - <a href = "https://unlucker5.github.io/sit-down/"> 🛋️🛏️ SitDownPls — интернет-магазин мебели</a>
+   - <a href = "https://unlucker5.github.io/pomodoro/"> ⏲️🍅 Pomodoro таймер</a>
+ </div>
 
 
 ### 📝 Рекомендации:
