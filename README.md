@@ -43,6 +43,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlucker5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### 👾 Проекты с хостингом: 
 
    - <a href = "https://unlucker5.github.io/Blanchard/"> 🖼️👀 Blanchard — художественная галерея </a>
@@ -51,7 +53,7 @@
 
 
 
-
+---
 
 ### 📝 Рекомендации:
  <div> 
